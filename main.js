@@ -108,7 +108,7 @@ function initSide() {
         ),
     )
     
-    let main = el(".card-body", {textContent: "Click on the logo to add", style: 'font-size: x-large'}) // iterate through the API list and make a component for each
+    let main = el(".card-body", {textContent: "Click on the logo to add (choose unique)", style: 'font-size: x-large'}) // iterate through the API list and make a component for each
     
     let apiList = apiCards()
     
