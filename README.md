@@ -10,6 +10,13 @@ This application was inspired by system-of-systems concept. It allows to use oth
 We allow our users to create and have a clear image of whatever is going on in the backend server they are building, by visualizing it. It can also be helpful for users, that are struggling with understanding how APIs work, and those who just want to play around to see what is a result of multi step manipulation on a certain input. It also helps developers avoid repetitive and tedious code-writing and saves time, since it is made to be more like a game and less like work.
 ### Technologies used
 For now, it only uses front-end technologies, namely HTML, JS, CSS. It is a single page web application at the moment. We deployed it on Netlify for the demnstration. We are also using the Redom library, along with bootstrap and mdbootstrap along with other common libraries, like jquery etc.
+#### APIs used from Rakuten:
+* WikiHow
+* Google Translate
+* words
+* Facts about cats
+* Sms (cors issue)
+* Email (cors issue)
 ### Future
 In the future, there are multiple milestones: 
 * Introduce the starred ranking system, and incorporate more APIs
