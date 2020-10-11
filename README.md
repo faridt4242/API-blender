@@ -27,3 +27,5 @@ In the future, there are multiple milestones:
 * Making features paid (for storing charts/cloud services/converting them to backend code/having many APIs/sync runs)
 
 ![Imgur](https://i.imgur.com/OkQ3vwV.gif)
+
+*NOTE: to use search, you need to type in the whole name of the API*
