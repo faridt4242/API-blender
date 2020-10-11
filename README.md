@@ -28,4 +28,4 @@ In the future, there are multiple milestones:
 
 ![Imgur](https://i.imgur.com/OkQ3vwV.gif)
 
-*NOTE: to use search, you need to type in the whole name of the API*
+*NOTE: to use search, you need to type in the whole name of the API and back and forward navigation doesn't work yet*
