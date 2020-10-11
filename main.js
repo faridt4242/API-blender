@@ -96,7 +96,7 @@ async function go2(id, res) {
 
 
 function initSide() {
-    let sideWhole = el(".card sticky float-right", {style: { minWidth: '250px', position:'absolute', right: '0', width: '30%', height: '100vh' }})
+    let sideWhole = el(".card sticky float-right overflow-auto", {style: { minWidth: '250px', position:'absolute', right: '0', width: '30%', height: '100vh' }})
     
     let searchBar = 
     el('.row',
