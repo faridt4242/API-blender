@@ -1,0 +1,86 @@
+.draggable {
+    touch-action: none;
+    user-select: none;
+}
+
+.card {
+    border-radius: 0px!important;
+}
+.addCard {
+    display: block;
+    /* margin-left: 15px;
+    margin-right: auto; */
+    margin: 30px auto;
+    border-radius: 5px!important;
+    width: 40%;
+    height: 28%;
+    /* max-height: 20%; */
+}
+
+.form-control {
+    border: 0;
+}
+
+.addCardHover:hover {
+    background-color: rgb(224 255 255);
+}
+
+.navbar-toggler {
+    border: 0
+}
+
+.bmd-layout-drawer {
+    position: absolute;
+    height: 100vh;
+   
+}
+
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#apiSearch {
+    border: 0;
+}
+
+.md-form {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.btn-jx{
+    position: inline;
+    margin: 5px 5px 0 0 ;
+    width: 20%;
+    height: 50px;
+
+}
+
+.btn-jx-title{
+    background: gray;
+    border-radius: 25px;
+    height:20px;
+    padding :0;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.btn-row{
+
+    width:90vw
+}
